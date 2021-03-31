@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864070981643",
+    "project_id": "fir-auth-flow-be40d",
+    "storage_bucket": "fir-auth-flow-be40d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864070981643:android:a5e676b43491f3d5694f0e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864070981643-cppp8vaclq188ni0rg7e6tba9gvj3ct3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fH609ui4ggokmFw3DuSox7Zo6agNFws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864070981643-cppp8vaclq188ni0rg7e6tba9gvj3ct3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
